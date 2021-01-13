@@ -3,6 +3,7 @@
 CEC Project
 
  -Image Rotation
+      
       This project accepts an Image and an angle by which the image is to be rotated and finally displays both the images.
 
 
