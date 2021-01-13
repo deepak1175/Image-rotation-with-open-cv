@@ -4,7 +4,7 @@ CEC Project
 
  -Image Rotation
       
-      This project accepts an Image and an angle by which the image is to be rotated and finally displays both the images.
+      This project take an Image and an angle as input and dislays the final rotated image on a certain angle as output.
 
 
 System Requirements -
